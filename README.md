@@ -1,6 +1,6 @@
 # SubstringFinder
 
-Simple commandline tool that returns given text with '*' after every matching to pattern string 
+Simple commandline tool that returns given text with '*' after each matching to pattern string 
 
 ### NOTE
 In oder to run this tool you need java jdk to be installed
